@@ -1,0 +1,24 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+:root {
+    /* colors */
+    --primary: #9E1981;
+    --secondary: #40C7F4;
+    --tertiary: #24353F;
+    --white: #ffffff;
+    --background: #fafafa;
+    --surface: #f6f6f6;
+    --stroke: #e4e4e4;
+    --darkgrey: #404040;
+    --lightgrey: #787878;
+    --interactive: #3069FE;
+    --warning: #FD8809;
+    --success: #68C132;
+    --danger: #EC5962;
+}
+
+html {
+    margin-top: 32px;
+}
