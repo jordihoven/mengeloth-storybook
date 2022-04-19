@@ -11,3 +11,8 @@ Install @mengloth into your project
 ```
 npm install @mengloth
 ```
+
+## Roadmap
+- [x] Add code snippets for button components
+- [ ] Add code snippets for header & footer components
+- [ ] Add layout story
